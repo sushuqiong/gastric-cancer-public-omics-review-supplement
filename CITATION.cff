@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the deposited record and the accompanying article."
+title: "Supplementary material and reproducibility package for \"Public Omics Data Reuse in Gastric Cancer: From Discovery Abundance to Translational Evidence\""
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+abstract: >-
+  Supplementary material and reproducibility package for a methodological narrative review on the
+  reuse of public omics data in gastric cancer. Includes the complete PubMed search log, scan record
+  counts, publication-trend dataset, the title/abstract reporting-signal screen of the 100 most
+  recent prognostic-signature records with its coding rules, the public metadata scan, a
+  full-text-verified comparison of the validation design of 11 representative prognostic-signature
+  studies, a comparison of single-cell and spatial methods, the GC-PROVE practical appraisal
+  checklist, and the generation scripts.
+keywords:
+  - gastric cancer
+  - public omics data reuse
+  - reproducibility
+  - prognostic signature
+  - data leakage
+  - external validation
+  - GC-PROVE
+authors:
+  - family-names: Su
+    given-names: Shuqiong
+    affiliation: "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"
+  - family-names: Huang
+    given-names: Cong
+    affiliation: "Department of Chemotherapy, Guangxi Medical University First Affiliated Hospital, Nanning, Guangxi, China"
+  - family-names: Yang
+    given-names: Bo
+    affiliation: "Department of Oncology, The People's Hospital of Yichun City, Yichun, Jiangxi, China"
+  - family-names: Huang
+    given-names: Yueli
+    affiliation: "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"
+  - family-names: Yang
+    given-names: Panyang
+    affiliation: "Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, China"
+  - family-names: Liu
+    given-names: Aiqun
+    affiliation: "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"

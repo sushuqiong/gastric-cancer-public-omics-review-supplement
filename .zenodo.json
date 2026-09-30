@@ -1,0 +1,30 @@
+{
+  "title": "Supplementary material and reproducibility package for \"Public Omics Data Reuse in Gastric Cancer: From Discovery Abundance to Translational Evidence\"",
+  "description": "<p>This deposit contains the supplementary material and reproducibility package for a methodological narrative review on the reuse of public omics data in gastric cancer.</p><p>Contents:</p><ul><li>Complete PubMed search log (search strings, QueryTranslation outputs, retrieval dates, sorting settings)</li><li>PubMed scan record counts by query topic</li><li>Publication-trend dataset with the year-assignment rule</li><li>Title/abstract reporting-signal screen of the 100 most recent prognostic-signature records, with coding rules and extraction procedure</li><li>Public metadata scan (OpenAlex, Crossref, Semantic Scholar) with separate fields for PubMed indexing status, search-corpus membership, and topic eligibility</li><li>Full-text-verified comparison of the validation design of 11 representative prognostic-signature studies (Supplementary Table S5)</li><li>Comparison of single-cell and spatial methods in gastric cancer (Supplementary Table S6)</li><li>GC-PROVE practical appraisal checklist</li><li>Publication-trend figure</li><li>Scripts used to generate the manuscript, tables, and figures</li></ul><p>The PubMed-based scans are supportive landscape evidence for a narrative review, not PRISMA systematic-review products.</p>",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    {"name": "Su, Shuqiong", "affiliation": "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"},
+    {"name": "Huang, Cong", "affiliation": "Department of Chemotherapy, Guangxi Medical University First Affiliated Hospital, Nanning, Guangxi, China"},
+    {"name": "Yang, Bo", "affiliation": "Department of Oncology, The People's Hospital of Yichun City, Yichun, Jiangxi, China"},
+    {"name": "Huang, Yueli", "affiliation": "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"},
+    {"name": "Yang, Panyang", "affiliation": "Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, China"},
+    {"name": "Liu, Aiqun", "affiliation": "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, Guangxi, China"}
+  ],
+  "keywords": [
+    "gastric cancer",
+    "public omics data reuse",
+    "reproducibility",
+    "prognostic signature",
+    "data leakage",
+    "external validation",
+    "GC-PROVE",
+    "methodological narrative review"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [],
+  "version": "1.0.0",
+  "notes": "Prepared as supplementary material for a manuscript under revision. The accompanying article is a methodological narrative review."
+}
