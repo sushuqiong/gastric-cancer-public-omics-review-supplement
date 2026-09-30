@@ -1,0 +1,6 @@
+topic,date_bounded_total,pmids_retrieved,pmid_list_file
+public_omics,4460,4460,Supplementary_File_S2_pmid_list_public_omics_v14.csv
+prognostic,1840,1840,Supplementary_File_S2_pmid_list_prognostic_v14.csv
+single_cell,904,904,Supplementary_File_S2_pmid_list_single_cell_v14.csv
+spatial,159,159,Supplementary_File_S2_pmid_list_spatial_v14.csv
+ai_ml,662,662,Supplementary_File_S2_pmid_list_ai_ml_v14.csv
